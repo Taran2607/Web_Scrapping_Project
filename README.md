@@ -1,2 +1,2 @@
 # Web_Scrapping_Project
-This is a passion project initiated by a friend and for now will be inactive
+A project made for fun for a freind. That is why you won't find any major visual fidelities or any professional work here...
